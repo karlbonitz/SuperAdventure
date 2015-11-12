@@ -1,0 +1,4 @@
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\Engine\bin\Debug\Engine.dll
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\Engine\bin\Debug\Engine.pdb
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\Engine\obj\Debug\Engine.dll
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\Engine\obj\Debug\Engine.pdb

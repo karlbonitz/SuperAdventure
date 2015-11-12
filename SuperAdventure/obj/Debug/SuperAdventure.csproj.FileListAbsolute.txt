@@ -1,0 +1,17 @@
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+c:\users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\Users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.manifest
+C:\Users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.application
+C:\Users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe.manifest
+C:\Users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.application
+C:\Users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.CodeAnalysisLog.xml
+C:\Users\karlb2\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.lastcodeanalysissucceeded
